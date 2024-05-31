@@ -1,0 +1,6 @@
+streamlit
+streamlit_mic_recorder
+transformers  # For using Gemini model
+docx  # For docx generation
+python-docx
+openai==0.28
